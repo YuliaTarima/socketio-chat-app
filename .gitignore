@@ -1,3 +1,6 @@
 /chat-app/package-lock.json
 /chat-app/node_modules/
 /services/node_modules/
+/chat-app/.cache/
+/chat-app/dist/
+/.DS_Store
